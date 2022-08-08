@@ -1,4 +1,4 @@
-﻿int num = 5;
+﻿int num = 8;
 int result = 1;
 while(result < num)
 {
