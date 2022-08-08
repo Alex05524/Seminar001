@@ -1,12 +1,13 @@
 ﻿int a = 4;                             
- 
-if(a % 2==1)
+
+
+if(a % 2==0)
 {
-    Console.WriteLine("Нет");
+    Console.WriteLine("Да");
 }
 else
 {
-    Console.WriteLine("Да");
+    Console.WriteLine("Нет");
 }
 
 Console.WriteLine();
